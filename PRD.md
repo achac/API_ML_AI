@@ -29,7 +29,7 @@ QA |
 * 可自定义账单标签，根据不同需求进行增加或删除
 
 ## User interaction and design 
-！[](https://bdn.135editor.com/files/users/150/1501074/201811/RvkN4f5S_Zwcc.png)
+！[架构](https://bdn.135editor.com/files/users/150/1501074/201811/RvkN4f5S_Zwcc.png)
 
 ## Questions
 * 解决购物小票杂乱、不好整理收纳的问题
