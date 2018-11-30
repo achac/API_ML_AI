@@ -5,8 +5,7 @@ Ecip | 账单助手
 Document status | 进行中
 Document onwer | 谢汐
 Designer | 谢汐
-Developer | 
-QA | 
+
 
 ## Goals
 * 简化个人账单记录方式，提供便捷记账功能
@@ -56,3 +55,6 @@ QA |
 * 解决购物小票杂乱、不好整理收纳的问题
 * 解决零散的账单的分类问题
 * 解决不清楚或忘记自己支出状况的问题
+
+## Not doing
+置入广告，给用户推荐理财产品。
