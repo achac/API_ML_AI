@@ -5,6 +5,8 @@ Ecip | 账单助手
 Document status | 进行中
 Document onwer | 谢汐
 Designer | 谢汐
+Develope | 谢汐
+QA | 谢汐
 
 
 ## Goals
