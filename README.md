@@ -54,8 +54,8 @@ QA | 谢汐
 
 ## User interaction and design 
 ![架构](https://bdn.135editor.com/files/users/150/1501074/201811/RvkN4f5S_Zwcc.png)
-#### 产品原型
-https://achac.github.io/bill-assitant/
+#### [产品原型](https://achac.github.io/bill-assitant/)
+
 
 ## 文字识别API调用
 * 用户对票据拍照或上传票据照片
