@@ -59,7 +59,7 @@ https://achac.github.io/bill-assitant/
 
 ## 文字识别API调用
 * 用户对票据拍照或上传票据照片
-* 使用百度AI中的票据识别技术，识别图片中的文字
+* 使用百度AI中的[票据识别](http://ai.baidu.com/tech/ocr/receipt)技术，识别图片中的文字
 * 返回识别参数，生成识别结果
 
 ## Questions
@@ -69,3 +69,6 @@ https://achac.github.io/bill-assitant/
 
 ## Not doing
 不置入广告，不给用户推荐理财产品等广告信息。
+
+## 清单
+产品原型：https://achac.github.io/bill-assitant/
