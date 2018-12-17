@@ -75,7 +75,7 @@ QA | 谢汐
 * 返回识别参数，生成识别结果
 
 ## API代码
-* repuest
+* request
 
 ```
 # coding:utf-8
