@@ -27,7 +27,9 @@ QA | 谢汐
 ![消费票据](http://img.piaoliang.com/uploads/allimg/130912/1529215S6-0.png)
 
 ![识别结果](https://bdn.135editor.com/files/users/150/1501074/201812/pV8JXgju_43Y4.png)
+
 * 在识别车票时，对于金额的识别比较准确，但对证件号的识别会出现一些疏漏。
+
 ![车票识别](https://bdn.135editor.com/files/users/150/1501074/201812/HuRCgfIv_BzFR.png)
 
 * 在对消费票据进行识别的过程中，个别地方仍存在错误，但整体识别较为准确，在主要内容的识别上准确度较高。
