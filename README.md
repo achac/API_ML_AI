@@ -24,6 +24,7 @@ QA | 谢汐
 
 ## 人工智能概率性与用户痛点
 * 在识别超市类小票时的准确度较高，但个别地方仍存在错误。
+
 ![消费票据](http://img.piaoliang.com/uploads/allimg/130912/1529215S6-0.png)
 
 ![识别结果](https://bdn.135editor.com/files/users/150/1501074/201812/pV8JXgju_43Y4.png)
