@@ -29,6 +29,8 @@ QA | 谢汐
 * 发票报销过后便上交了，若想留下这条记录只能对此进行拍照，但日后查找起来不方便。
 
 ## 人工智能概率性与用户痛点
+* 百度AI票据识别字段准确率可达97.66％
+
 * 在识别超市类小票时的准确度较高，但个别地方仍存在错误。
 
 ![消费票据](http://img.piaoliang.com/uploads/allimg/130912/1529215S6-0.png)
@@ -117,13 +119,18 @@ if (content):
 }
 ```
 ## API使用比较分析
-* 讯飞开放平台中的[增值税发票识别技术](https://www.xfyun.cn/services/VAT-invoice-recg)，只能对发票进行识别，不能识别车票等更常见的票据。
+* 讯飞开放平台中的[增值税发票识别技术](https://www.xfyun.cn/services/VAT-invoice-recg)对发票识别的准确率可达99.1％，但只能对发票进行识别，不能识别车票等更常见的票据。
 
 ![讯飞](https://bdn.135editor.com/files/users/150/1501074/201812/wvpWTCas_qH6j.png)
 
 * 百度AI中的[通用票据识别技术](http://ai.baidu.com/tech/ocr/receipt)包括了增值税发票识别，且能识别车票，通用票据这种常见的票据。
 
 ![百度AI](https://bdn.135editor.com/files/users/150/1501074/201812/9EKD7fdr_OafS.png)
+
+* 百度AI中识别通用票据的使用价格
+
+![价格](https://bdn.135editor.com/files/users/150/1501074/201812/Z29b7Dsb_H57r.png)
+
 
 ## Questions
 * 解决购物小票杂乱、不好整理收纳的问题
