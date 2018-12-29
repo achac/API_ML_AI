@@ -136,5 +136,7 @@ if (content):
 ## 清单
 产品原型：https://achac.github.io/bill-assitant/
 
-票据识别：http://ai.baidu.com/tech/ocr/receipt
+讯飞开放平台增值税发票识别：https://www.xfyun.cn/services/VAT-invoice-recg
+
+百度AI票据识别：http://ai.baidu.com/tech/ocr/receipt
 
