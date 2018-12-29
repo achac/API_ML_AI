@@ -116,6 +116,14 @@ if (content):
     "words_result_num": 2
 }
 ```
+## API使用比较分析
+* 讯飞开放平台中的[增值税发票识别技术](https://www.xfyun.cn/services/VAT-invoice-recg)，只能对发票进行识别，不能识别车票等更常见的票据。
+
+![讯飞](https://bdn.135editor.com/files/users/150/1501074/201812/wvpWTCas_qH6j.png)
+
+* 百度AI中的[通用票据识别技术](http://ai.baidu.com/tech/ocr/receipt)包括了增值税发票识别，且能识别车票，通用票据这种常见的票据。
+
+![百度AI](https://bdn.135editor.com/files/users/150/1501074/201812/9EKD7fdr_OafS.png)
 
 ## Questions
 * 解决购物小票杂乱、不好整理收纳的问题
